@@ -24,3 +24,10 @@ This Chrome Extension tracks how much time you spend on different websites and h
 ✅ Displays how long you've used each website in the popup
 
 Perfect for students, developers, or anyone wanting to stay focused online.
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c38b230f-3838-4605-9481-0a0d43439681)
+
+![Image](https://github.com/user-attachments/assets/f97aa3c6-6116-4629-96e3-a01a8f26f0ad)
